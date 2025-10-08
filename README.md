@@ -1,3 +1,5 @@
+[![CI](https://github.com/markshmidt/COMP3104_Group44_Assignment/actions/workflows/ci.yml/badge.svg)](https://github.com/markshmidt/COMP3104_Group44_Assignment/actions/workflows/ci.yml)
+
 # COMP3104_Group44_Assignment
 
 ## Group Members
@@ -15,7 +17,6 @@ This repository hosts the group assignment for COMP3104 DevOps course, focusing 
 
 ## CI/CD Pipeline
 The project utilizes GitHub Actions for continuous integration. The workflow is defined in `.github/workflows/ci.yml`.
-[![CI](https://github.com/markshmidt/COMP3104_Group44_Assignment/actions/workflows/ci.yml/badge.svg)](https://github.com/markshmidt/COMP3104_Group44_Assignment/actions/workflows/ci.yml)
 
 ## Branching Strategy
 Each member has their own branch named `STUDENTID-Name`. All changes are merged into the `main` branch via Pull Requests.
