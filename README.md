@@ -3,7 +3,7 @@
 ## Group Members
 - **Leader:** Mariia Shmidt (101470474) - [GitHub](https://github.com/markshmidt)
 - **Member 2:** Engenii Baldin (1023456) - [GitHub](link)
-- **Member 3:** Eduard Kosenko (1027890) - [GitHub](link)
+- **Member 3:** Eduard Kosenko (1027890) - [GitHub](https://github.com/gbc-ekos)
 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.
