@@ -4,7 +4,7 @@
 
 ## Group Members
 - **Leader:** Mariia Shmidt (101470474) - [GitHub](https://github.com/markshmidt)
-- **Member 2:** Engenii Baldin (1023456) - [GitHub](link)
+- **Member 2:** Engenii Baldin (1023456) - [GitHub](https://github.com/SnikeZ)
 - **Member 3:** Eduard Kosenko (101480050) - [GitHub](https://github.com/gbc-ekos)
 
 ## Project Description
