@@ -1,1 +1,7 @@
+############################################################
+# File: 101480050_gb.txt
+# Author: Eduard Kosenko
+# Date: October 8, 2025
+# Description: George Brown College summary and notes
+############################################################
 George Brown College is a leading post-secondary institution located in Toronto, Ontario, Canada. The Casa Loma campus is one of its main campuses, known for its vibrant student community and diverse academic programs. Situated near the historic Casa Loma landmark, this campus offers state-of-the-art facilities, modern classrooms, and specialized labs for various fields of study, including technology, health sciences, and design. Students at Casa Loma campus benefit from hands-on learning experiences, industry connections, and a supportive environment that fosters personal and professional growth.
