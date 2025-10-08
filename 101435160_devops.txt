@@ -1,3 +1,9 @@
+############################################################
+# File: 101435160_devops.txt
+# Author: Evgenii Baldin, 101435160
+# Date: October 8, 2025
+# Description: George Brown College summary and notes
+############################################################
 COMP3104 – Software Engineering and DevOps is a course offered at George Brown College that introduces students to the core principles and practices of modern software development and operations.
 
 The course explores key topics such as the Software Development Life Cycle (SDLC), version control, continuous integration and deployment (CI/CD), automation, and collaboration tools. Through hands-on projects and practical exercises, students gain experience with industry-standard technologies and workflows that prepare them for real-world challenges in software engineering and DevOps environments.
