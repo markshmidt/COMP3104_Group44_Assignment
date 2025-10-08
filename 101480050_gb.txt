@@ -1,6 +1,6 @@
 ############################################################
 # File: 101480050_gb.txt
-# Author: Eduard Kosenko
+# Author: Eduard Kosenko, 101480050
 # Date: October 8, 2025
 # Description: George Brown College summary and notes
 ############################################################
