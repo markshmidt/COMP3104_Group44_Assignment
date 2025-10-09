@@ -1,0 +1,3 @@
+##----- WHY DEVOPS NEEDED ----##
+Learning DevOps improves the software development cycle by increasing speed, efficiency, and collaboration through automation and continuous integration/delivery (CI/CD) pipelines. It fosters a culture of shared responsibility, leading to faster and more frequent releases, higher quality software, improved system stability, and quicker recovery from failures. Ultimately, embracing DevOps principles helps organizations adapt to market changes and stay competitive. 
+
