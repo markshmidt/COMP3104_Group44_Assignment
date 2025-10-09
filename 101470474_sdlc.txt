@@ -1,0 +1,21 @@
+##----- WHY DEVOPS NEEDED ----##
+Learning DevOps improves the software development cycle by increasing speed, efficiency, and collaboration through automation and continuous integration/delivery (CI/CD) pipelines. It fosters a culture of shared responsibility, leading to faster and more frequent releases, higher quality software, improved system stability, and quicker recovery from failures. Ultimately, embracing DevOps principles helps organizations adapt to market changes and stay competitive. 
+
+##------ BENEFITS OF DEVOPS ----##
+
+1) Improved collaboration between development and operational teams:DevOps breaks down the conventional silos and obstacles that exist between development and operations teams. These teams can share information, talents, resources, and responsibilities by functioning as a single entity. They can also more effectively and efficiently coordinate their operations. 
+2 improved product quality and dependability)More frequent and faster software releases: By automating key steps of the software pipeline, DevOps enables faster feedback cycles and shorter development iterations. 
+3) Improved product quality and dependability: DevOps increases product quality and reliability by combining testing, validation, verification, security, performance, availability, scalability, and resilience at all stages of the software development process.
+4) Cost savings and resource optimization: DevOps minimizes expenses in software development processes by decreasing waste, redundancy, rework, delays, and errors. The methodology enhances resource use and efficiency by automating operations such as testing, deployment, monitoring, and configuration management. 
+
+##-------- DEVOPS BEST PRACTICES ------##
+
+(CI) Continuous Integration - CI is a method that entails routinely merging code changes from many developers into a single repository, typically several times per day. Continuous integration ensures that code updates are consistent, compatible, and functional. 
+
+CD (Continuous Delivery) - CD is a method of providing software goods or upgrades to clients in a timely and dependable manner. This extends CI by automating deployment in several environments, such as testing, staging, and production.
+
+Automation - Automation is a critical component of DevOps, allowing for faster, more efficient, and more accurate software delivery. The use of various tools and technologies to automate operations, including testing, deployment, monitoring, and configuration management, is referred to as automation. 
+
+IaC (Infrastructure as Code) - IaC is a practice that involves using code rather than manual processes to manage and provision infrastructure resources such as servers, networks, storage, and databases. 
+
+
